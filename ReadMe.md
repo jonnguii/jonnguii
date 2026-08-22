@@ -1,17 +1,17 @@
 <div align="center">
 
-```text
-     ██╗ ██████╗  █████╗  ██████╗ 
-     ██║██╔═══██╗██╔══██╗██╔═══██╗
-     ██║██║   ██║███████║██║   ██║
-██   ██║██║   ██║██╔══██║██║   ██║
-╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
- ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
+                                                                                          ```text
+                                                                                               ██╗ ██████╗  █████╗  ██████╗ 
+                                                                                               ██║██╔═══██╗██╔══██╗██╔═══██╗
+                                                                                               ██║██║   ██║███████║██║   ██║
+                                                                                          ██   ██║██║   ██║██╔══██║██║   ██║
+                                                                                          ╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
+                                                                                           ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+                                                                                          ```
 
 ### Desenvolvedor Full Stack · Java & Spring · Sistemas de Informação
 
-[![Visualizar Currículo](https://img.shields.io/badge/📄_VISUALIZAR_CURRÍCULO-6C3BF5?style=for-the-badge)](./assets/curriculo-joao-cravo.pdf)
+[![Visualizar Currículo](https://img.shields.io/badge/📄_VISUALIZAR_CURRÍCULO-6C3BF5?style=for-the-badge)](../assets/curriculo-joao-cravo.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcravog/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jg.cravo@outlook.com)
 
