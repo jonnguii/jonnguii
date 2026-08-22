@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
      ██╗ ██████╗  █████╗  ██████╗ 
      ██║██╔═══██╗██╔══██╗██╔═══██╗
      ██║██║   ██║███████║██║   ██║
@@ -8,40 +8,95 @@
 ╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝
  ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
-### Estagiário FullStack em Desenvolvimento de Software · SI Estudante · SP
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=2B2B2B&logoColor=0A66C2)](https://www.linkedin.com/in/jcravog/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&labelColor=2B2B2B&logoColor=0078D4)](jg.cravo@outlook.com)
+### Desenvolvedor Full Stack · Java & Spring · Sistemas de Informação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6DB33F&center=true&width=750&height=50&&lines=%3C%2F%3E+Solucionador+de+problemas;F%C3%A3+de+Java+%E2%99%A8" alt="Typing SVG" />
+[![Visualizar Currículo](https://img.shields.io/badge/📄_VISUALIZAR_CURRÍCULO-6C3BF5?style=for-the-badge)](./assets/curriculo-joao-cravo.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcravog/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jg.cravo@outlook.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6DB33F&center=true&width=750&height=50&lines=%3C%2F%3E+Solucionador+de+problemas;Java+%2B+Spring+Boot;Full+Stack+Developer" alt="Typing SVG" />
+
 </div>
 
 ---
 
-Sou uma pessoa curiosa que encontrou no desenvolvimento de software uma razão: Solucionar problemas.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Meu foco é no Java e seu robusto aliado na programação moderna, Spring Boot. Pelo prazer em conhecer essas tecnologias, aprendi a aprender e hoje gosto do conceito de pesquisar e estudar para resolver um problema. 
 
-Atualmente estudante de Sistemas de Informação, consegui minha primeira vaga na área como estagiário, a qual está abrindo o meu mundo dando espaço pra explorar o frontend com o desenvolvimento web moderno.
+**Estágio em Desenvolvimento Full Stack @ V2SAUDE (2026)**
+
+Desenvolvimento e manutenção de ERP corporativo voltado ao setor de OPME, atuando em sistemas legados e arquiteturas modernas com Java, Spring, JSF/PrimeFaces, React, APIs REST e microsserviços. Experiência na correção de falhas críticas em produção, desenvolvimento de novas funcionalidades, criação e manutenção de telas, integração entre frontend e backend, aplicação de regras de negócio, melhorias de UI/UX, manutenção de código legado, análise de performance e criação e edição de relatórios PDF com JasperReports.
+
+</td>
+
+<td width="42%" valign="top" align="center">
+
+## GitHub
+
+<a href="https://github.com/jonnguii">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonnguii&theme=github_dark" alt="GitHub Stats" />
+</a>
+
+<br>
+
+<a href="https://github.com/jonnguii">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnguii&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 🏆 Certificações
 
-  #### &#128295; Tech:
-  - BackEnd:<br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  
-  - FrontEnd:<br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<div align="center">
 
-  - Databases:<br>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
+<!--
+Quando tiver uma certificação, você pode colocar a imagem dentro de:
+assets/certificacoes/
 
-  - Version control:<br>
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+Exemplo:
 
-  - IDEs:<br>
-   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  
+<a href="LINK_DA_CREDENCIAL">
+  <img src="./assets/certificacoes/aws-ai-practitioner.png" width="140" alt="AWS AI Practitioner">
+</a>
+-->
+
+| Certificação | Instituição | Credencial |
+|---|---|---|
+| Em breve | — | — |
+
+</div>
 
 ---
+
+## 🛠️ Tecnologias
+
+### Backend
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+### Bancos de dados
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### Ferramentas
+
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+---
+
+<div align="center">
+
+### Solucionar problemas. Aprender. Construir.
+
+</div>
