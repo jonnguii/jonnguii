@@ -54,20 +54,13 @@ Desenvolvimento e manutenção de ERP corporativo voltado ao setor de OPME, atua
 
 <div align="center">
 
-<!--
-Quando tiver uma certificação, você pode colocar a imagem dentro de:
-assets/certificacoes/
 
-Exemplo:
-
-<a href="LINK_DA_CREDENCIAL">
-  <img src="./assets/certificacoes/aws-ai-practitioner.png" width="140" alt="AWS AI Practitioner">
+<a href="https://www.credly.com/badges/3d113a0f-8e4c-4b74-b7b3-21ccf09c82e3/public_url">
+  <img src="./assets/certificacoes/aws-certified-ai-practitioner.png" width="140" alt="AWS AI Practitioner">
 </a>
--->
 
-| Certificação | Instituição | Credencial |
-|---|---|---|
-| Em breve | — | — |
+
+
 
 </div>
 
